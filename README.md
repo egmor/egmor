@@ -1,5 +1,7 @@
 ## Hi there 👋
-Weather in my city(thanks to Andcool for this program):
+<p align="center"> 
+   Weather in my city (thanks to Andcool for this program):
+</p>
 <p align="center">
    <a href="https://wakatime.com/@AndcoolSystems">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
