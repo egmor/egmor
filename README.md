@@ -10,4 +10,5 @@ Weather in my city:
    </a>
 </p>
 Thanks to Andcool for this program
+      
 [![My Skills](https://skillicons.dev/icons?i=discord,github,py,pycharm)](https://skillicons.dev)
