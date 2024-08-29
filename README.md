@@ -1,5 +1,5 @@
 ## Hi there 👋
-Weather in my city:
+Weather in my city(thanks to Andcool for this program):
 <p align="center">
    <a href="https://wakatime.com/@AndcoolSystems">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
@@ -9,6 +9,6 @@ Weather in my city:
       /img>
    </a>
 </p>
-Thanks to Andcool for this program
+
       
 [![My Skills](https://skillicons.dev/icons?i=discord,github,py,pycharm)](https://skillicons.dev)
