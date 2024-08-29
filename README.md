@@ -10,5 +10,8 @@ Weather in my city(thanks to Andcool for this program):
    </a>
 </p>
 
-      
-[![My Skills](https://skillicons.dev/icons?i=discord,github,py,pycharm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,py,pycharm"/>
+  </a>
+</p      
